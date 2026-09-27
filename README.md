@@ -515,8 +515,3 @@ This repository is a research notebook expressed through code.
 Its value is in documenting observations, testing hypotheses against
 real binary structures, and making legacy data understandable without
 pretending that undocumented behavior is known with certainty.
-
-If a format remains partially unknown, that uncertainty should remain
-visible. Digital preservation benefits from recoverable data, but it
-also benefits from accurate documentation of what has --- and has not
---- been established.
